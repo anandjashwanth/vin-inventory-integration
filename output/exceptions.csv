@@ -1,0 +1,14 @@
+vin,stage,issues
+1HGCM82633A00435,Local check,"Wrong length (16 characters, expected 17)"
+1HGCM82633A0O4352,Local check,"Invalid characters: O (I, O and Q are never used in VINs)"
+1HGCM82633A004353,Local check,"Check digit fails (9th character is 3, expected 5)"
+1G1YY12S815117595,After decode,Missing required field: fuel_type
+YV1CZ91H541055663,After decode,Missing required field: fuel_type
+3GTEC23J89G146975,After decode,Missing required field: fuel_type
+WMWRC33516TK67627,After decode,Missing required field: fuel_type
+JS2YC415085100924,After decode,Missing required field: fuel_type
+3GCEC13JX8G284994,After decode,Missing required field: fuel_type
+1YVHZ8BH4A5M27299,After decode,Missing required field: fuel_type
+YV1TS92D141357595,After decode,Missing required field: fuel_type
+1YVHZ8DH2C5M35904,After decode,Missing required field: fuel_type
+SAJEA51D83XD24704,After decode,Missing required field: fuel_type

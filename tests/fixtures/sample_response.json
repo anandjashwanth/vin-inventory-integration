@@ -1,0 +1,8 @@
+{
+  "_note": "Illustrative sample in the shape the vPIC DecodeVINValuesBatch endpoint returns. Values are for demonstrating the pipeline offline only; they are not real API output.",
+  "Results": [
+    {"VIN": "1HGCM82633A004352", "Make": "HONDA", "Model": "Accord", "ModelYear": "2003", "FuelTypePrimary": "Gasoline", "Trim": "EX", "Series": "", "BodyClass": "Coupe", "VehicleType": "PASSENGER CAR", "DisplacementL": "3.0", "EngineCylinders": "6", "DriveType": "FWD/Front-Wheel Drive", "TransmissionStyle": "Automatic", "Doors": "2", "PlantCountry": "UNITED STATES (USA)", "Manufacturer": "AMERICAN HONDA MOTOR CO., INC.", "ErrorCode": "0", "ErrorText": "0 - VIN decoded clean. Check Digit (9th position) is correct"},
+    {"VIN": "1M8GDM9AXKP042788", "Make": "MOTOR COACH INDUSTRIES", "Model": "", "ModelYear": "1989", "FuelTypePrimary": "Diesel", "Trim": "", "Series": "", "BodyClass": "Bus", "VehicleType": "BUS", "DisplacementL": "", "EngineCylinders": "", "DriveType": "", "TransmissionStyle": "", "Doors": "", "PlantCountry": "", "Manufacturer": "MOTOR COACH INDUSTRIES", "ErrorCode": "0", "ErrorText": "0 - VIN decoded clean. Check Digit (9th position) is correct"},
+    {"VIN": "WP0ZZZ99ZTS392124", "Make": "PORSCHE", "Model": "", "ModelYear": "", "FuelTypePrimary": "", "Trim": "", "Series": "", "BodyClass": "", "VehicleType": "PASSENGER CAR", "DisplacementL": "", "EngineCylinders": "", "DriveType": "", "TransmissionStyle": "", "Doors": "", "PlantCountry": "GERMANY", "Manufacturer": "DR. ING. H.C.F. PORSCHE AG", "ErrorCode": "8", "ErrorText": "8 - No detailed data available currently"}
+  ]
+}

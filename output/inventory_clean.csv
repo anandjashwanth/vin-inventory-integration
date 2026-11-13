@@ -1,0 +1,191 @@
+vin,region,make,model,model_year,fuel_type,trim,series,body_type,vehicle_type,engine_litres,cylinders,drive_type,transmission,doors,plant_country,manufacturer_name
+1N4AL2AP6CN404954,North America,Nissan,Altima,2012,Gasoline,,,Sedan/Saloon,PASSENGER CAR,2.5,4,4x2,,4,United States (Usa),"NISSAN NORTH AMERICA, INC."
+WDDGF4HB0EA950540,Europe,Mercedes-Benz,C-Class,2014,Gasoline,C250,,Sedan/Saloon,PASSENGER CAR,1.8,4,,,4,Germany,MERCEDES-BENZ CARS
+5TDDK3EH1CS133461,North America,Toyota,Highlander,2012,Gasoline,Base/Hybrid,GSU40L/GSU45L/ASU40L/GVU48L,Sport Utility Vehicle [SUV]/Multipurpose Vehicle [MPV],MULTIPURPOSE PASSENGER VEHICLE (MPV),3.5,6,4WD/4-Wheel Drive/4x4,,5,United States (Usa),"TOYOTA MOTOR MANUFACTURING, INDIANA, INC."
+WBAWB73568P043648,Europe,Bmw,335i,2008,Gasoline,,3-Series,Coupe,PASSENGER CAR,3.0,6,,,2,Germany,BMW AG
+KNAFX4A83E5061612,Asia,Kia,Forte,2014,Gasoline,"LX, EX",,Sedan/Saloon,PASSENGER CAR,2.0,4,,,4,South Korea,KIA CORPORATION
+3VW2K7AJXCM470182,North America,Volkswagen,Jetta,2012,Gasoline,"Jetta, S",,Sedan/Saloon,PASSENGER CAR,2.0,4,,Automatic,4,Mexico,VOLKSWAGEN DE MEXICO SA DE CV
+5UXZW0C5XBL368926,North America,Bmw,X5,2011,Diesel,xDrive35d,,Sport Utility Vehicle [SUV]/Multipurpose Vehicle [MPV],MULTIPURPOSE PASSENGER VEHICLE (MPV),3.0,6,AWD/All-Wheel Drive,,4,United States (Usa),BMW MANUFACTURER CORPORATION / BMW NORTH AMERICA
+WDDGF4HB4CA679298,Europe,Mercedes-Benz,C-Class,2012,Gasoline,C250,,Sedan/Saloon,PASSENGER CAR,1.8,4,,,4,Germany,MERCEDES-BENZ CARS
+YV1KS9606V1104096,Europe,Volvo,960 Series,1997,Gasoline,,,Sedan/Saloon,PASSENGER CAR,2.9,6,,Automatic,4,Sweden,VOLVO CAR CORPORATION
+1B3EL46X46N245034,North America,Dodge,Stratus,2006,Gasoline,SXT,JR,Sedan/Saloon,PASSENGER CAR,2.4,4,FWD/Front-Wheel Drive,,4,United States (Usa),FCA US LLC
+WP0AA2A9XCS788143,Europe,Porsche,911,2012,Gasoline,"Carrera (2WD), Carrera 4 (4WD)",Carrera,Coupe,PASSENGER CAR,3.6,6,,,2,Germany,DR. ING. H.C.F. PORSCHE AG
+WBAFR7C59CDU78542,Europe,Bmw,535i,2012,Gasoline,,5-Series,Sedan/Saloon,PASSENGER CAR,3.0,6,,,4,Germany,BMW AG
+2T1BU4EEXCC825076,North America,Toyota,Corolla,2012,Gasoline,,ZRE142L / AZE141L,Sedan/Saloon,PASSENGER CAR,1.8,4,4x2,,4,Canada,TOYOTA MOTOR MANUFACTURING CANADA
+1N4AZ0CP9DC402788,North America,Nissan,Leaf,2013,Electric,,,Hatchback/Liftback/Notchback,PASSENGER CAR,,,4x2,,4,United States (Usa),"NISSAN NORTH AMERICA, INC."
+1NXBU4EE0AZ364076,North America,Toyota,Corolla,2010,Gasoline,,ZRE142L / AZE141L,Sedan/Saloon,PASSENGER CAR,1.8,4,4x2,,4,United States (Usa),"NEW UNITED MOTOR MANUFACTURING, INC."
+5UXFA13566LY32937,North America,Bmw,X5,2006,Gasoline,3.0i,,Sport Utility Vehicle [SUV]/Multipurpose Vehicle [MPV],MULTIPURPOSE PASSENGER VEHICLE (MPV),3.0,6,,,4,United States (Usa),BMW MANUFACTURER CORPORATION / BMW NORTH AMERICA
+WBXPA93426WG86942,Europe,Bmw,X3,2006,Gasoline,3.0i,,Sport Utility Vehicle [SUV]/Multipurpose Vehicle [MPV],MULTIPURPOSE PASSENGER VEHICLE (MPV),3.0,6,,,4,Austria,BMW AG
+3VWSG71K56M651219,North America,Volkswagen,Jetta,2006,Gasoline,2.5 TDI,,Sedan/Saloon,PASSENGER CAR,2.5,5,,,4,Mexico,VOLKSWAGEN DE MEXICO SA DE CV
+1FMJK2A57CEF36094,North America,Ford,Expedition,2012,Gasoline,EL-Limited,,Sport Utility Vehicle [SUV]/Multipurpose Vehicle [MPV],MULTIPURPOSE PASSENGER VEHICLE (MPV),5.4,8,4WD/4-Wheel Drive/4x4,,4,United States (Usa),FORD MOTOR COMPANY
+3N1AB6AP6CL637806,North America,Nissan,Sentra,2012,Gasoline,,,Sedan/Saloon,PASSENGER CAR,2.0,4,4x2,,4,Mexico,"NISSAN MEXICANA, S.A. DE C.V."
+JN8AS5MV2BW304078,Asia,Nissan,Rogue,2011,Gasoline,,,Crossover Utility Vehicle [CUV],MULTIPURPOSE PASSENGER VEHICLE (MPV),2.5,,4WD/4-Wheel Drive/4x4,,4,Japan,"NISSAN MOTOR COMPANY, LTD"
+2G1WB5E35E1127903,North America,Chevrolet,Impala Limited,2014,Gasoline,LT Fleet,,Sedan/Saloon,PASSENGER CAR,3.6,6,,,4,Canada,GENERAL MOTORS LLC
+3VWSC29M91M022267,North America,Volkswagen,Jetta,2001,Gasoline,GLS,,Sedan/Saloon,PASSENGER CAR,1.8,4,,,4,Mexico,VOLKSWAGEN DE MEXICO SA DE CV
+WDDGF54X69R076998,Europe,Mercedes-Benz,C-Class,2009,Gasoline,C300,,Sedan/Saloon,PASSENGER CAR,3.0,6,,,4,South Africa,MERCEDES-BENZ CARS
+JTDKN3DU1C1499494,Asia,Toyota,Prius,2012,Gasoline,,ZVW30L,Hatchback/Liftback/Notchback,PASSENGER CAR,1.8,4,4x2,,5,Japan,TOYOTA MOTOR CORPORATION
+WBAVC535X7FZ70010,Europe,Bmw,328i,2007,Gasoline,,3-Series,Sedan/Saloon,PASSENGER CAR,3.0,6,,,4,Germany,BMW AG
+1GNDT13S122294311,North America,Chevrolet,Trailblazer,2002,Gasoline,XL,1/2 Ton,Sport Utility Vehicle [SUV]/Multipurpose Vehicle [MPV],MULTIPURPOSE PASSENGER VEHICLE (MPV),4.2,6,4WD/4-Wheel Drive/4x4,,4,United States (Usa),GENERAL MOTORS LLC
+3VWCM31Y65M365100,North America,Volkswagen,Beetle,2005,Gasoline,GLS,,Convertible/Cabriolet,PASSENGER CAR,2.0,4,,,2,Mexico,VOLKSWAGEN DE MEXICO SA DE CV
+1C3CDZCB1DN633915,North America,Dodge,Avenger,2013,Gasoline,SXT,,Sedan/Saloon,PASSENGER CAR,2.4,4,FWD/Front-Wheel Drive,,4,United States (Usa),FCA US LLC
+1G11C5SLXFF107801,North America,Chevrolet,Malibu,2015,Gasoline,LT (1LT),,Sedan/Saloon,PASSENGER CAR,2.5,4,,,4,United States (Usa),GENERAL MOTORS LLC
+4S4BRBBC3D3242847,North America,Subaru,Outback,2013,Gasoline,Premium,,Sport Utility Vehicle [SUV]/Multipurpose Vehicle [MPV],MULTIPURPOSE PASSENGER VEHICLE (MPV),2.5,4,AWD/All-Wheel Drive,Continuously Variable Transmission (CVT),4,United States (Usa),"SUBARU OF AMERICA, INC"
+JN1CV6AP2BM509308,Asia,Infiniti,G37,2011,Gasoline,,,Sedan/Saloon,PASSENGER CAR,3.7,6,4x2,,4,Japan,"NISSAN MOTOR COMPANY, LTD"
+WBANW1C53AC165393,Europe,Bmw,535i,2010,Gasoline,,5-Series,Sedan/Saloon,PASSENGER CAR,3.0,6,,,4,Germany,BMW AG
+JA3AU86U28U045199,Asia,Mitsubishi,Lancer,2008,Gasoline,,,Sedan/Saloon,PASSENGER CAR,2.0,,,,4,Japan,MITSUBISHI MOTORS CORPORATION (MMC)
+WDDGF5EB6AR115466,Europe,Mercedes-Benz,C-Class,2010,Gasoline,C300,,Sedan/Saloon,PASSENGER CAR,3.0,6,,,4,South Africa,MERCEDES-BENZ CARS
+WBAPH7G55ANM51511,Europe,Bmw,328i,2010,Gasoline,SA,3-Series,Sedan/Saloon,PASSENGER CAR,3.0,6,,,4,South Africa,BMW AG
+1N4AL2AP3CN427625,North America,Nissan,Altima,2012,Gasoline,,,Sedan/Saloon,PASSENGER CAR,2.5,4,4x2,,4,United States (Usa),"NISSAN NORTH AMERICA, INC."
+3VWDP7AJ7DM443243,North America,Volkswagen,Jetta,2013,Gasoline,"Comfortline, Sportline",,Sedan/Saloon,PASSENGER CAR,2.5,5,,Automatic,4,Mexico,VOLKSWAGEN DE MEXICO SA DE CV
+YV1AS982271031886,Europe,Volvo,S80,2007,Gasoline,,All New,Sedan/Saloon,PASSENGER CAR,3.2,6,FWD/Front-Wheel Drive,,4,Sweden,VOLVO CAR CORPORATION
+1GNEV13D29S163673,North America,Chevrolet,Traverse,2009,Gasoline,LS,1/2 Ton,Sport Utility Vehicle [SUV]/Multipurpose Vehicle [MPV],MULTIPURPOSE PASSENGER VEHICLE (MPV),3.6,6,AWD/All-Wheel Drive,,4,United States (Usa),GENERAL MOTORS LLC
+JN8AS5MV0CW717893,Asia,Nissan,Rogue,2012,Gasoline,,,Crossover Utility Vehicle [CUV],MULTIPURPOSE PASSENGER VEHICLE (MPV),2.5,,4x2,,4,Japan,"NISSAN MOTOR COMPANY, LTD"
+1C4BJWCG8DL592852,North America,Jeep,Wrangler,2013,Gasoline,Rubicon,,Sport Utility Vehicle [SUV]/Multipurpose Vehicle [MPV],MULTIPURPOSE PASSENGER VEHICLE (MPV),3.6,6,4WD/4-Wheel Drive/4x4,,2,United States (Usa),FCA US LLC
+SAJWA79B68SH23456,Europe,Jaguar,XJ,2008,Gasoline,XJ,,Sedan/Saloon,PASSENGER CAR,4.2,8,,Automatic,4,United Kingdom (Uk),JAGUAR LAND ROVER LIMITED
+3FAHP0HA5CR196359,North America,Ford,Fusion,2012,Gasoline,SE,,Sedan/Saloon,PASSENGER CAR,2.5,4,,,4,Mexico,"FORD MOTOR COMPANY, MEXICO"
+WAUAC48H66K003895,Europe,Audi,A4,2006,Gasoline,,Cabriolet,Convertible/Cabriolet,PASSENGER CAR,1.8,4,,,2,Germany,AUDI AG
+3VWPF31Y57M423177,North America,Volkswagen,Beetle,2007,Gasoline,2.5,,Convertible/Cabriolet,PASSENGER CAR,2.5,5,,,2,Mexico,VOLKSWAGEN DE MEXICO SA DE CV
+WBA3T3C53FP738904,Europe,Bmw,435i,2015,Gasoline,,4-Series,Convertible/Cabriolet,PASSENGER CAR,3.0,6,,,2,Germany,BMW AG
+JM1BK32F081868303,Asia,Mazda,Mazda3,2008,Gasoline,,,Sedan/Saloon,PASSENGER CAR,2.0,,,,4,Japan,MAZDA MOTOR CORPORATION
+SAJWA06B59HR08184,Europe,Jaguar,XF,2009,Gasoline,Premium Luxury,,Sedan/Saloon,PASSENGER CAR,4.2,8,,Automatic,4,United Kingdom (Uk),JAGUAR LAND ROVER LIMITED
+1FMJU1J5XEEF64088,North America,Ford,Expedition,2014,Gasoline,XLT/ KING RANCH,,Sport Utility Vehicle [SUV]/Multipurpose Vehicle [MPV],MULTIPURPOSE PASSENGER VEHICLE (MPV),5.4,8,4WD/4-Wheel Drive/4x4,,4,United States (Usa),FORD MOTOR COMPANY
+1G1JC5SH1C4134243,North America,Chevrolet,Sonic,2012,Gasoline,LT,,Sedan/Saloon,PASSENGER CAR,1.8,4,,Automatic,4,United States (Usa),GENERAL MOTORS LLC
+WDDGF4HB5DA804150,Europe,Mercedes-Benz,C-Class,2013,Gasoline,C250,,Sedan/Saloon,PASSENGER CAR,1.8,4,,,4,Germany,MERCEDES-BENZ CARS
+1N4AL3AP5DN525594,North America,Nissan,Altima,2013,Gasoline,,,Sedan/Saloon,PASSENGER CAR,2.5,4,4x2,,4,United States (Usa),"NISSAN NORTH AMERICA, INC."
+1VWAP7A33CC073641,North America,Volkswagen,Passat,2012,Gasoline,S,,Sedan/Saloon,PASSENGER CAR,2.5,5,,,4,United States (Usa),"VOLKSWAGEN GROUP OF AMERICA, INC."
+3VWJP7AT1CM611686,North America,Volkswagen,Beetle,2012,Gasoline,,,Hatchback/Liftback/Notchback,PASSENGER CAR,2.5,5,,Automatic,2,Mexico,VOLKSWAGEN DE MEXICO SA DE CV
+2C3JA53G45H109009,North America,Chrysler,300,2005,Gasoline,Base/Limited/Touring,LX,Sedan/Saloon,PASSENGER CAR,3.5,6,RWD/Rear-Wheel Drive,,4,Canada,FCA CANADA INC.
+SALFR24N58H061951,Europe,Land Rover,LR2,2008,Gasoline,HSE,,Sport Utility Vehicle [SUV]/Multipurpose Vehicle [MPV],MULTIPURPOSE PASSENGER VEHICLE (MPV),3.2,6,,Automatic,4,England,JAGUAR LAND ROVER LIMITED
+1LNHL9EK4EG608462,North America,Lincoln,MKS,2014,Gasoline,,,Sedan/Saloon,PASSENGER CAR,3.7,6,AWD/All-Wheel Drive,,4,United States (Usa),FORD MOTOR COMPANY
+3VWDP7AJ3CM386649,North America,Volkswagen,Jetta,2012,Gasoline,SE,,Sedan/Saloon,PASSENGER CAR,2.5,5,,Automatic,4,Mexico,VOLKSWAGEN DE MEXICO SA DE CV
+WBAXH5C55CDW02012,Europe,Bmw,528xi,2012,Gasoline,,5-Series,Sedan/Saloon,PASSENGER CAR,2.0,4,,,4,Germany,BMW AG
+1VWBP7A38DC037286,North America,Volkswagen,Passat,2013,Gasoline,Comfortline,,Sedan/Saloon,PASSENGER CAR,2.5,5,,,4,United States (Usa),"VOLKSWAGEN GROUP OF AMERICA, INC."
+WBAYB6C56DC998003,Europe,Bmw,"750i, Alpina B7",2013,Gasoline,750i xDrive/Alpina B7 xDrive,7-Series,Sedan/Saloon,PASSENGER CAR,4.4,8,AWD/All-Wheel Drive,,4,Germany,BMW AG
+SALGV2EFXEA127308,Europe,Land Rover,Range Rover,2014,Gasoline,Autobiography,,Sport Utility Vehicle [SUV]/Multipurpose Vehicle [MPV],MULTIPURPOSE PASSENGER VEHICLE (MPV),5.0,8,,Automatic,4,England,JAGUAR LAND ROVER LIMITED
+WDBRF40J35F725147,Europe,Mercedes-Benz,C-Class,2005,Gasoline,C230,,Sedan/Saloon,PASSENGER CAR,1.8,4,,,4,Germany,MERCEDES-BENZ CARS
+1FAFP34N77W270918,North America,Ford,Focus,2007,Gasoline,ZX4,,Sedan/Saloon,PASSENGER CAR,2.0,4,,,4,United States (Usa),FORD MOTOR COMPANY
+YV1612FS5E1297547,Europe,Volvo,S60,2014,Gasoline,,,Sedan/Saloon,PASSENGER CAR,2.5,5,FWD/Front-Wheel Drive,,4,Sweden,VOLVO CAR CORPORATION
+WBABW33404PL30321,Europe,Bmw,325Ci,2004,Gasoline,,3-Series,Convertible/Cabriolet,PASSENGER CAR,2.5,6,,,2,Germany,BMW AG
+WDDGJ4HB8DG101864,Europe,Mercedes-Benz,C-Class,2013,Gasoline,C250,,Coupe,PASSENGER CAR,1.8,4,,,2,Germany,MERCEDES-BENZ CARS
+1ZVBP8EM8C5273397,North America,Ford,Mustang,2012,Gasoline,V6 Convertible,,Convertible/Cabriolet,PASSENGER CAR,3.7,6,,,2,United States (Usa),"AUTO ALLIANCE INTERNATIONAL, USA"
+2G1WF52E659370549,North America,Chevrolet,Impala,2005,Gasoline,,,Sedan/Saloon,PASSENGER CAR,3.4,6,,,4,Canada,GENERAL MOTORS LLC
+2FMGK5BC0CBD05526,North America,Ford,Flex,2012,Gasoline,SE,,Sport Utility Vehicle [SUV]/Multipurpose Vehicle [MPV],MULTIPURPOSE PASSENGER VEHICLE (MPV),3.5,6,FWD/Front-Wheel Drive,,4,Canada,"FORD MOTOR COMPANY OF CANADA, LTD."
+WAUJC68E95A048660,Europe,Audi,A4,2005,Gasoline,,,Sedan/Saloon,PASSENGER CAR,1.8,4,,,4,Germany,AUDI AG
+WBAEV53452KM16522,Europe,Bmw,330i,2002,Gasoline,,3-Series,Sedan/Saloon,PASSENGER CAR,3.0,6,,,4,Germany,BMW AG
+1FAHP2EW1BG155874,North America,Ford,Taurus,2011,Gasoline,SEL,,Sedan/Saloon,PASSENGER CAR,3.5,6,FWD/Front-Wheel Drive,,4,United States (Usa),FORD MOTOR COMPANY
+4A4AR4AU3EE020507,North America,Mitsubishi,Outlander Sport,2014,Gasoline,Sport SEL/GT,,Sport Utility Vehicle [SUV]/Multipurpose Vehicle [MPV],MULTIPURPOSE PASSENGER VEHICLE (MPV),2.0,,4WD/4-Wheel Drive/4x4,,5,United States (Usa),MITSUBISHI MOTORS NORTH AMERICA
+2B3KA43H77H818136,North America,Dodge,Charger,2007,Gasoline,Base,LC,Sedan/Saloon,PASSENGER CAR,5.7,8,RWD/Rear-Wheel Drive,,4,Canada,FCA CANADA INC.
+3VWCD31Y04M315324,North America,Volkswagen,Beetle,2004,Gasoline,GLS,,Convertible/Cabriolet,PASSENGER CAR,1.8,4,,,2,Mexico,VOLKSWAGEN DE MEXICO SA DE CV
+WBALX3C59CDV77511,Europe,Bmw,650i,2012,Gasoline,,6-Series,Coupe,PASSENGER CAR,4.4,8,,,2,Germany,BMW AG
+2G1WF52E359141780,North America,Chevrolet,Impala,2005,Gasoline,,,Sedan/Saloon,PASSENGER CAR,3.4,6,,,4,Canada,GENERAL MOTORS LLC
+3LNHM26136R643207,North America,Lincoln,Zephyr,2006,Gasoline,Zephyr,,Sedan/Saloon,PASSENGER CAR,3.0,6,,,4,Mexico,"FORD MOTOR COMPANY, MEXICO"
+WBANB33584B109855,Europe,Bmw,545i,2004,Gasoline,,5-Series,Sedan/Saloon,PASSENGER CAR,4.4,8,,,4,Germany,BMW AG
+WDDGF81X19R084609,Europe,Mercedes-Benz,C-Class,2009,Gasoline,C300 4-MATIC,,Sedan/Saloon,PASSENGER CAR,3.0,6,AWD/All-Wheel Drive,,4,South Africa,MERCEDES-BENZ CARS
+3FA6P0H71DR349543,North America,Ford,Fusion,2013,Gasoline,SE,,Sedan/Saloon,PASSENGER CAR,2.5,4,,,4,Mexico,"FORD MOTOR COMPANY, MEXICO"
+3VWDF81KX6M651346,North America,Volkswagen,Jetta,2006,Gasoline,2.5 TDI,,Sedan/Saloon,PASSENGER CAR,2.5,5,,Automatic,4,Mexico,VOLKSWAGEN DE MEXICO SA DE CV
+WBADN63403GN89614,Europe,Bmw,540iA,2003,Gasoline,,,Sedan/Saloon,PASSENGER CAR,,8,,,4,Germany,BMW AG
+WBAKB83589CY60830,Europe,Bmw,750Li,2009,Gasoline,,7-Series,Sedan/Saloon,PASSENGER CAR,4.4,8,,,4,Germany,BMW AG
+JN8AS5MV1AW131118,Asia,Nissan,Rogue,2010,Gasoline,,,Sport Utility Vehicle [SUV]/Multipurpose Vehicle [MPV],MULTIPURPOSE PASSENGER VEHICLE (MPV),2.5,,4WD/4-Wheel Drive/4x4,,4,Japan,"NISSAN MOTOR COMPANY, LTD"
+3VWSK29MX1M065986,North America,Volkswagen,Jetta,2001,Gasoline,GLS,,Sedan/Saloon,PASSENGER CAR,2.0,4,,,4,Mexico,VOLKSWAGEN DE MEXICO SA DE CV
+3VWDX7AJ9CM304102,North America,Volkswagen,Jetta,2012,Gasoline,SE,,Sedan/Saloon,PASSENGER CAR,2.5,5,,Automatic,4,Mexico,VOLKSWAGEN DE MEXICO SA DE CV
+WBA3A5C52CF344569,Europe,Bmw,328i,2012,Gasoline,,3-Series,Sedan/Saloon,PASSENGER CAR,2.0,4,,,4,Germany,BMW AG
+WBAWC73528E062920,Europe,Bmw,335xi,2008,Gasoline,,3-Series,Coupe,PASSENGER CAR,3.0,6,,,2,Germany,BMW AG
+WBAHN83556DT30130,Europe,Bmw,750Li,2006,Gasoline,,7-Series,Sedan/Saloon,PASSENGER CAR,4.8,8,,,4,Germany,BMW AG
+YV1622FS3C2114327,Europe,Volvo,S60,2012,Gasoline,,,Sedan/Saloon,PASSENGER CAR,2.5,5,FWD/Front-Wheel Drive,,4,Belgium,VOLVO CAR CORPORATION
+WDDKK7DF4EF251348,Europe,Mercedes-Benz,E-Class,2014,Gasoline,E550,,Convertible/Cabriolet,PASSENGER CAR,4.7,8,,,2,Germany,MERCEDES-BENZ CARS
+WBAVA37588NL18000,Europe,Bmw,328i,2008,Gasoline,SA,3-Series,Sedan/Saloon,PASSENGER CAR,3.0,6,,,4,South Africa,BMW AG
+3D3KU28C43G749012,North America,Dodge,Ram,2003,Diesel,,2500,Pickup,TRUCK,5.9,6,4WD/4-Wheel Drive/4x4,,4,Mexico,CHRYSLER DE MEXICO TOLUCA
+5NPDH4AE4EH505402,North America,Hyundai,Elantra,2014,Gasoline,GLS(Middle),,Sedan/Saloon,PASSENGER CAR,1.8,,,,4,United States (Usa),HYUNDAI-KIA AMERICA TECHNICAL CENTER INC (HATCI)
+WBSBL93443JR23107,Europe,Bmw,M3,2003,Gasoline,,3-Series,Coupe,PASSENGER CAR,3.2,6,,,2,Germany,BMW M GMBH
+5NPDH4AE4DH321463,North America,Hyundai,Elantra,2013,Gasoline,GLS/GLS Preferred/ Limited/Limited Tech GS/SE/SE Tech,,Sedan/Saloon,PASSENGER CAR,1.8,4,,,4,United States (Usa),HYUNDAI-KIA AMERICA TECHNICAL CENTER INC (HATCI)
+1B3CC5FBXAN227146,North America,Dodge,Avenger,2010,Gasoline,SXT or R/T,JS,Sedan/Saloon,PASSENGER CAR,2.4,4,FWD/Front-Wheel Drive,,4,United States (Usa),FCA US LLC
+1FBSS3BL4CDA67603,North America,Ford,E-350,2012,Gasoline,,Econoline/E-series,Van,BUS,5.4,8,4x2,,,United States (Usa),FORD MOTOR COMPANY
+TRUBFAFK4E1009295,Europe,Audi,TT,2014,Gasoline,quattro,Coupe,Coupe,PASSENGER CAR,2.0,4,AWD/All-Wheel Drive,Automatic,2,Hungary,AUDI AG
+1FAHP2EW4CG121820,North America,Ford,Taurus,2012,Gasoline,SEL,,Sedan/Saloon,PASSENGER CAR,3.5,6,FWD/Front-Wheel Drive,,4,United States (Usa),FORD MOTOR COMPANY
+1GCRCSE00CZ264855,North America,Chevrolet,Silverado,2012,Gasoline,LTZ,1500,Pickup,TRUCK,5.3,8,4x2,,2,United States (Usa),GENERAL MOTORS LLC
+1N4AL2APXCN527236,North America,Nissan,Altima,2012,Gasoline,,,Sedan/Saloon,PASSENGER CAR,2.5,4,4x2,,4,United States (Usa),"NISSAN NORTH AMERICA, INC."
+5UXFE83587LZ41205,North America,Bmw,X5,2007,Gasoline,4.8i,,Sport Utility Vehicle [SUV]/Multipurpose Vehicle [MPV],MULTIPURPOSE PASSENGER VEHICLE (MPV),4.8,8,,,4,United States (Usa),BMW MANUFACTURER CORPORATION / BMW NORTH AMERICA
+WDDPK5HA4CF014008,Europe,Mercedes-Benz,SLK-Class,2012,Gasoline,SLK350,,Convertible/Cabriolet,PASSENGER CAR,3.5,6,,,2,Germany,MERCEDES-BENZ CARS
+1C3CCBAB2CN179718,North America,Chrysler,200,2012,Gasoline,,LX,Sedan/Saloon,PASSENGER CAR,2.4,4,FWD/Front-Wheel Drive,,4,United States (Usa),FCA US LLC
+WBAPK53519A643409,Europe,Bmw,328i,2009,Gasoline,xDrive,3-Series,Sedan/Saloon,PASSENGER CAR,3.0,6,AWD/All-Wheel Drive,,4,Germany,BMW AG
+1FMEU74806UA05442,North America,Ford,Explorer,2006,Gasoline,Eddie Bauer,,Sport Utility Vehicle [SUV]/Multipurpose Vehicle [MPV],MULTIPURPOSE PASSENGER VEHICLE (MPV),4.6,8,4WD/4-Wheel Drive/4x4,,4,United States (Usa),FORD MOTOR COMPANY
+4A3AB36F44E108235,North America,Mitsubishi,Galant,2004,Gasoline,,,Sedan/Saloon,PASSENGER CAR,2.4,4,,,4,United States (Usa),MITSUBISHI MOTORS NORTH AMERICA
+3FA6P0HD0ER138213,North America,Ford,Fusion,2014,Gasoline,SE,,Sedan/Saloon,PASSENGER CAR,1.5,4,FWD/Front-Wheel Drive,,4,Mexico,"FORD MOTOR COMPANY, MEXICO"
+JA4LS21H83J038320,Asia,Mitsubishi,Montero Sport,2003,Gasoline,,,Sport Utility Vehicle [SUV]/Multipurpose Vehicle [MPV],MULTIPURPOSE PASSENGER VEHICLE (MPV),3.0,6,4x2,,5,Japan,MITSUBISHI MOTORS CORPORATION (MMC)
+1D7HL38X03S188630,North America,Dodge,Dakota,2003,Gasoline,Sport,AN,Pickup,TRUCK,3.9,6,4x2,,4,United States (Usa),FCA US LLC
+3VWDP7AJ7CM300355,North America,Volkswagen,Jetta,2012,Gasoline,SE,,Sedan/Saloon,PASSENGER CAR,2.5,5,,Automatic,4,Mexico,VOLKSWAGEN DE MEXICO SA DE CV
+JHMGD37667S055256,Asia,Honda,Fit,2007,Gasoline,,,Hatchback/Liftback/Notchback,PASSENGER CAR,1.5,4,,Manual/Standard,5,Japan,"HONDA MOTOR CO., LTD."
+WBAVB73507VH22730,Europe,Bmw,335i,2007,Gasoline,,3-Series,Sedan/Saloon,PASSENGER CAR,3.0,6,,,4,Germany,BMW AG
+WBAVA37507NL14733,Europe,Bmw,328i,2007,Gasoline,SA,3-Series,Sedan/Saloon,PASSENGER CAR,3.0,6,,,4,South Africa,BMW AG
+5NPEB4ACXEH848106,North America,Hyundai,Sonata,2014,Gasoline,GLS/ GLS Popular,,Sedan/Saloon,PASSENGER CAR,1.6,,,,4,United States (Usa),HYUNDAI-KIA AMERICA TECHNICAL CENTER INC (HATCI)
+SALSF2D44BA270211,Europe,Land Rover,Range Rover Sport,2011,Gasoline,HSE,,Sport Utility Vehicle [SUV]/Multipurpose Vehicle [MPV],MULTIPURPOSE PASSENGER VEHICLE (MPV),5.0,8,,Automatic,4,England,JAGUAR LAND ROVER LIMITED
+3LNHL2GC4CR816425,North America,Lincoln,MKZ,2012,Gasoline,,,Sedan/Saloon,PASSENGER CAR,3.5,6,FWD/Front-Wheel Drive,,4,Mexico,"FORD MOTOR COMPANY, MEXICO"
+2G1WF5E39C1313624,North America,Chevrolet,Impala,2012,Gasoline,LS,,Sedan/Saloon,PASSENGER CAR,3.6,6,,,4,Canada,GENERAL MOTORS LLC
+WAUDF78E26A115997,Europe,Audi,A4,2006,Gasoline,quattro,,Sedan/Saloon,PASSENGER CAR,2.0,4,AWD/All-Wheel Drive,,4,Germany,AUDI AG
+KNDJN2A29E7719232,Asia,Kia,Soul,2014,Gasoline,GL(BASE),,Sport Utility Vehicle [SUV]/Multipurpose Vehicle [MPV],MULTIPURPOSE PASSENGER VEHICLE (MPV),1.6,,,,,South Korea,KIA CORPORATION
+SAJWA0FB1BLR93575,Europe,Jaguar,XF,2011,Gasoline,XF,,Sedan/Saloon,PASSENGER CAR,5.0,8,,Automatic,4,United Kingdom (Uk),JAGUAR LAND ROVER LIMITED
+5FNYF28298B030016,North America,Honda,Pilot,2008,Gasoline,VP,,Sport Utility Vehicle [SUV]/Multipurpose Vehicle [MPV],MULTIPURPOSE PASSENGER VEHICLE (MPV),3.5,6,FWD/Front-Wheel Drive,Automatic,5,United States (Usa),"AMERICAN HONDA MOTOR CO., INC."
+3VWSG29M81M054129,North America,Volkswagen,Jetta,2001,Gasoline,GLS,,Sedan/Saloon,PASSENGER CAR,2.8,6,,,4,Mexico,VOLKSWAGEN DE MEXICO SA DE CV
+4JGBF7BE4CA799848,North America,Mercedes-Benz,GL-Class,2012,Gasoline,GL450 4-MATIC,,Sport Utility Vehicle [SUV]/Multipurpose Vehicle [MPV],MULTIPURPOSE PASSENGER VEHICLE (MPV),4.7,8,AWD/All-Wheel Drive,,4,United States (Usa),"MERCEDES-BENZ OF NORTH AMERICA, INC."
+WBXPA93485WD03519,Europe,Bmw,X3,2005,Gasoline,3.0i,,Sport Utility Vehicle [SUV]/Multipurpose Vehicle [MPV],MULTIPURPOSE PASSENGER VEHICLE (MPV),3.0,6,,,4,Austria,BMW AG
+JN1CV6AP3DM713666,Asia,Infiniti,G37,2013,Gasoline,,,Sedan/Saloon,PASSENGER CAR,3.7,6,4x2,,4,Japan,"NISSAN MOTOR COMPANY, LTD"
+1FMCU0GX8DUB13368,North America,Ford,Escape,2013,Gasoline,SE,,Sport Utility Vehicle [SUV]/Multipurpose Vehicle [MPV],MULTIPURPOSE PASSENGER VEHICLE (MPV),1.6,4,4x2,,4,United States (Usa),FORD MOTOR COMPANY
+3VWEF71K87M172536,North America,Volkswagen,Jetta,2007,Gasoline,"Wolfsburg Edition, Sport Limiited Edition",,Sedan/Saloon,PASSENGER CAR,2.5,5,,,4,Mexico,VOLKSWAGEN DE MEXICO SA DE CV
+1FM5K8D83DGC10597,North America,Ford,Explorer,2013,Gasoline,XLT,,Sport Utility Vehicle [SUV]/Multipurpose Vehicle [MPV],MULTIPURPOSE PASSENGER VEHICLE (MPV),3.5,6,4WD/4-Wheel Drive/4x4,,4,United States (Usa),FORD MOTOR COMPANY
+1N4AL2AP1CC126413,North America,Nissan,Altima,2012,Gasoline,,,Sedan/Saloon,PASSENGER CAR,2.5,4,4x2,,4,United States (Usa),"NISSAN NORTH AMERICA, INC."
+WAUAC48H26K009774,Europe,Audi,A4,2006,Gasoline,,Cabriolet,Convertible/Cabriolet,PASSENGER CAR,1.8,4,,,2,Germany,AUDI AG
+WDCGG8JB2DF963083,Europe,Mercedes-Benz,GLK-Class,2013,Gasoline,GLK350 4-MATIC,,Sport Utility Vehicle [SUV]/Multipurpose Vehicle [MPV],MULTIPURPOSE PASSENGER VEHICLE (MPV),3.5,6,AWD/All-Wheel Drive,,4,Germany,MERCEDES-BENZ CARS
+5NPDH4AE7EH483718,North America,Hyundai,Elantra,2014,Gasoline,GLS(Middle),,Sedan/Saloon,PASSENGER CAR,1.8,,,,4,United States (Usa),HYUNDAI-KIA AMERICA TECHNICAL CENTER INC (HATCI)
+3N1BC13E99L387650,North America,Nissan,Versa,2009,Gasoline,,,Hatchback/Liftback/Notchback,PASSENGER CAR,1.8,4,4x2,,4,Mexico,"NISSAN MEXICANA, S.A. DE C.V."
+1J4FA24198L594906,North America,Jeep,Wrangler,2008,Gasoline,X,JK,Sport Utility Vehicle [SUV]/Multipurpose Vehicle [MPV],MULTIPURPOSE PASSENGER VEHICLE (MPV),3.8,6,4WD/4-Wheel Drive/4x4,,2,United States (Usa),FCA US LLC
+3VWKZ8AJ1AM680913,North America,Volkswagen,Jetta SportWagen,2010,Gasoline,2.5 S,,Wagon,PASSENGER CAR,2.5,5,,,4,Mexico,VOLKSWAGEN DE MEXICO SA DE CV
+JTEZU5JR4B5031663,Asia,Toyota,4Runner,2011,Gasoline,,GRN280L/GRN285L/TRN280L/TRN285L,Sport Utility Vehicle [SUV]/Multipurpose Vehicle [MPV],MULTIPURPOSE PASSENGER VEHICLE (MPV),4.0,6,4x2,,5,Japan,TOYOTA MOTOR CORPORATION
+WBAPT73599CX02378,Europe,Bmw,535i,2009,Gasoline,xDrive,5-Series,Wagon,PASSENGER CAR,3.0,6,AWD/All-Wheel Drive,,4,Germany,BMW AG
+JTEBU4BF8CK123572,Asia,Toyota,FJ Cruiser,2012,Gasoline,GSJ15L/GSJ10L,,Sport Utility Vehicle [SUV]/Multipurpose Vehicle [MPV],MULTIPURPOSE PASSENGER VEHICLE (MPV),4.0,6,4WD/4-Wheel Drive/4x4,,5,Japan,TOYOTA MOTOR CORPORATION
+1N4DL01D6WC186909,North America,Nissan,Altima,1998,Gasoline,,,Sedan/Saloon,PASSENGER CAR,2.4,4,,,4,United States (Usa),"NISSAN NORTH AMERICA, INC."
+3GCUKREHXEG437957,North America,Chevrolet,Silverado,2014,Gasoline,LT,1500,Pickup,TRUCK,4.3,6,4WD/4-Wheel Drive/4x4,,4,Mexico,GENERAL MOTORS LLC
+WBSBL93426PN64776,Europe,Bmw,M3,2006,Gasoline,,3-Series,Coupe,PASSENGER CAR,3.2,6,,,2,Germany,BMW M GMBH
+WDZPE8CD3A5495098,Europe,Mercedes-Benz,Sprinter,2010,Diesel,,C2500/P2500,Van,BUS,,,4x2,,,Germany,"MERCEDES-BENZ USA, LLC (SPRINTER)"
+2G1FC1ED1B9166631,North America,Chevrolet,Camaro,2011,Gasoline,LT2,,Coupe,PASSENGER CAR,3.6,6,,Automatic,2,Canada,GENERAL MOTORS LLC
+1FAFP53U77A207190,North America,Ford,Taurus,2007,Gasoline,SE,,Sedan/Saloon,PASSENGER CAR,3.0,6,,,4,United States (Usa),FORD MOTOR COMPANY
+5NPEB4AC5DH781798,North America,Hyundai,Sonata,2013,Gasoline,GLS/ GLS Popular,,Sedan/Saloon,PASSENGER CAR,2.4,4,,,4,United States (Usa),HYUNDAI-KIA AMERICA TECHNICAL CENTER INC (HATCI)
+WDBUF65J54X114088,Europe,Mercedes-Benz,E-Class,2004,Gasoline,E320,,Sedan/Saloon,PASSENGER CAR,3.2,6,,,4,Austria,MERCEDES-BENZ CARS
+2C4RC1BG0ER398337,North America,Chrysler,Town and Country,2014,Gasoline,Touring,,Minivan,MULTIPURPOSE PASSENGER VEHICLE (MPV),3.6,6,FWD/Front-Wheel Drive,,4,Canada,FCA CANADA INC.
+2T1BURHE7EC048495,North America,Toyota,Corolla,2014,Gasoline,L/LE,ZRE172L,Sedan/Saloon,PASSENGER CAR,1.8,4,4x2,,4,Canada,TOYOTA MOTOR MANUFACTURING CANADA
+WBAPH7G53BNM58264,Europe,Bmw,328i,2011,Gasoline,SA,3-Series,Sedan/Saloon,PASSENGER CAR,3.0,6,,,4,South Africa,BMW AG
+WAULT64B23N006244,Europe,Audi,A6,2003,Gasoline,quattro,,Sedan/Saloon,PASSENGER CAR,3.0,6,AWD/All-Wheel Drive,,4,Germany,AUDI AG
+1FAFP52U5XG243815,North America,Ford,Taurus,1999,Gasoline,LX,,Sedan/Saloon,PASSENGER CAR,3.0,6,,,4,United States (Usa),FORD MOTOR COMPANY
+1ZVBP8EM0D5272312,North America,Ford,Mustang,2013,Gasoline,V6 Convertible,,Convertible/Cabriolet,PASSENGER CAR,3.7,6,,,2,United States (Usa),"AUTO ALLIANCE INTERNATIONAL, USA"
+WDDGF8BBXCR208788,Europe,Mercedes-Benz,C-Class,2012,Gasoline,C300 4-MATIC,,Sedan/Saloon,PASSENGER CAR,3.0,6,AWD/All-Wheel Drive,,4,South Africa,MERCEDES-BENZ CARS
+5XYKT3A1XDG332925,North America,Kia,Sorento,2013,Gasoline,Base / LX,,Sport Utility Vehicle [SUV]/Multipurpose Vehicle [MPV],MULTIPURPOSE PASSENGER VEHICLE (MPV),2.4,,4x2,,4,United States (Usa),"KIA GEORGIA, INC"
+1GTW7FCA3E1913706,North America,Gmc,Savana,2014,Gasoline,,2500 Cargo,Cargo Van,TRUCK,4.8,8,RWD/Rear-Wheel Drive,,4,United States (Usa),GENERAL MOTORS LLC
+4T1BK46K98U068218,North America,Toyota,Camry,2008,Gasoline,,ACV40L/GSV40L/AHV40L,Sedan/Saloon,PASSENGER CAR,3.5,6,4x2,,4,United States (Usa),"TOYOTA MOTOR MANUFACTURING, KENTUCKY, INC."
+WVWHV71K68W195186,Europe,Volkswagen,GTI,2008,Gasoline,,,Hatchback/Liftback/Notchback,PASSENGER CAR,2.0,4,,Automatic,4,Germany,VOLKSWAGEN AG
+3N1CN7AP5DL840290,North America,Nissan,Versa,2013,Gasoline,,,Sedan/Saloon,PASSENGER CAR,1.6,4,4x2,,4,Mexico,"NISSAN MEXICANA, S.A. DE C.V."
+1N4AL2AP2CC134651,North America,Nissan,Altima,2012,Gasoline,,,Sedan/Saloon,PASSENGER CAR,2.5,4,4x2,,4,United States (Usa),"NISSAN NORTH AMERICA, INC."
+WDBTJ75J33F008517,Europe,Mercedes-Benz,CLK-Class,2003,Gasoline,500C,,Coupe,PASSENGER CAR,5.0,8,,,2,Germany,MERCEDES-BENZ CARS
+WP0CA2A8XDS114947,Europe,Porsche,Boxster,2013,Gasoline,,,Convertible/Cabriolet,PASSENGER CAR,2.9,6,,,2,Germany,DR. ING. H.C.F. PORSCHE AG
+1D4HB48N36F166736,North America,Dodge,Durango,2006,Gasoline,SLT,HB,Sport Utility Vehicle [SUV]/Multipurpose Vehicle [MPV],MULTIPURPOSE PASSENGER VEHICLE (MPV),4.7,8,4WD/4-Wheel Drive/4x4,,4,United States (Usa),FCA US LLC
+1FADP3F24DL212921,North America,Ford,Focus,2013,Gasoline,SE,,Sedan/Saloon,PASSENGER CAR,2.0,4,,,4,United States (Usa),FORD MOTOR COMPANY
+WDDHF8HB7AA057187,Europe,Mercedes-Benz,E-Class,2010,Gasoline,E350 4-MATIC,,Sedan/Saloon,PASSENGER CAR,3.5,6,AWD/All-Wheel Drive,,4,Germany,MERCEDES-BENZ CARS
+WP0CD29968S789575,Europe,Porsche,911,2008,Gasoline,Cabriolet (4WD),Turbo,Convertible/Cabriolet,PASSENGER CAR,3.6,6,,,2,Germany,DR. ING. H.C.F. PORSCHE AG
+WDDHF8JB3DA755049,Europe,Mercedes-Benz,E-Class,2013,Gasoline,E350 4-MATIC,,Sedan/Saloon,PASSENGER CAR,3.5,6,AWD/All-Wheel Drive,,4,Germany,MERCEDES-BENZ CARS
+JTMBD31V175122663,Asia,Toyota,RAV4,2007,Gasoline,High (without Third seat),ACA33L/ACA38L/GSA33L/GSA38L,Sport Utility Vehicle [SUV]/Multipurpose Vehicle [MPV],MULTIPURPOSE PASSENGER VEHICLE (MPV),2.4,4,4WD/4-Wheel Drive/4x4,,5,Japan,TOYOTA MOTOR CORPORATION
+WDBUF56J76A866728,Europe,Mercedes-Benz,E-Class,2006,Gasoline,E350,,Sedan/Saloon,PASSENGER CAR,3.5,6,,,4,Germany,MERCEDES-BENZ CARS
+1GNDV23L26D241880,North America,Chevrolet,Uplander,2006,Gasoline,LS,1/2 Ton,Minivan,MULTIPURPOSE PASSENGER VEHICLE (MPV),3.5,6,,,4,United States (Usa),GENERAL MOTORS LLC
+1G1JC6SG0E4220773,North America,Chevrolet,Sonic,2014,Gasoline,LT,,Sedan/Saloon,PASSENGER CAR,1.8,4,,Automatic,4,United States (Usa),GENERAL MOTORS LLC
+WAUDC68DX1A104684,Europe,Audi,A4,2001,Gasoline,quattro,,Sedan/Saloon,PASSENGER CAR,1.8,4,AWD/All-Wheel Drive,,4,Germany,AUDI AG
+5S3ET13M272803919,North America,Saab,9-7X,2007,Gasoline,,SUV,Sport Utility Vehicle [SUV]/Multipurpose Vehicle [MPV],MULTIPURPOSE PASSENGER VEHICLE (MPV),5.3,8,,,4,United States (Usa),GENERAL MOTORS LLC
+WDDKJ5GB4BF081570,Europe,Mercedes-Benz,E-Class,2011,Gasoline,E350,,Coupe,PASSENGER CAR,3.5,6,,,2,Germany,MERCEDES-BENZ CARS
+1N6AD07W35C442325,North America,Nissan,Frontier,2005,Gasoline,,,Pickup,TRUCK,4.0,6,4WD/4-Wheel Drive/4x4,,4,United States (Usa),"NISSAN NORTH AMERICA, INC."
+1VWAP7A33DC046747,North America,Volkswagen,Passat,2013,Gasoline,Trendline,,Sedan/Saloon,PASSENGER CAR,2.5,5,,,4,United States (Usa),"VOLKSWAGEN GROUP OF AMERICA, INC."
+1FTFW1EF9DFB32883,North America,Ford,F-150,2013,Gasoline,,,Pickup,TRUCK,5.0,8,4WD/4-Wheel Drive/4x4,,,United States (Usa),FORD MOTOR COMPANY
+4T1BK1EBXDU024903,North America,Toyota,Avalon,2013,Gasoline,,GSX40L / AVX40L,Sedan/Saloon,PASSENGER CAR,3.5,6,4x2,,4,United States (Usa),"TOYOTA MOTOR MANUFACTURING, KENTUCKY, INC."
+YV4902DZ8B2169554,Europe,Volvo,XC60,2011,Gasoline,,,Sport Utility Vehicle [SUV]/Multipurpose Vehicle [MPV],MULTIPURPOSE PASSENGER VEHICLE (MPV),3.0,6,AWD/All-Wheel Drive,,4,Belgium,VOLVO CAR CORPORATION
+4USFE83557LY63784,North America,Bmw,X5,2007,Gasoline,4.8i,,Sport Utility Vehicle [SUV]/Multipurpose Vehicle [MPV],PASSENGER CAR,4.8,8,,,4,United States (Usa),BMW MANUFACTURER CORPORATION / BMW NORTH AMERICA
+WBADT63442CH94383,Europe,Bmw,530i,2002,Gasoline,,5-Series,Sedan/Saloon,PASSENGER CAR,3.0,6,,,4,Germany,BMW AG
+5UXWX5C50CL721740,North America,Bmw,X3,2012,Gasoline,xDrive28i,,Sport Utility Vehicle [SUV]/Multipurpose Vehicle [MPV],MULTIPURPOSE PASSENGER VEHICLE (MPV),3.0,6,AWD/All-Wheel Drive,,4,United States (Usa),BMW MANUFACTURER CORPORATION / BMW NORTH AMERICA
+WBAXG5C5XCC594059,Europe,Bmw,528i,2012,Gasoline,,5-Series,Sedan/Saloon,PASSENGER CAR,2.0,4,,,4,Germany,BMW AG
+1FTPW14506FA17833,North America,Ford,F-150,2006,Gasoline,Styleside,F-Series,Pickup,TRUCK,5.4,8,4WD/4-Wheel Drive/4x4,,,United States (Usa),FORD MOTOR COMPANY
+1G1PD5SH0C7187831,North America,Chevrolet,Cruze,2012,Gasoline,2LS,,Sedan/Saloon,PASSENGER CAR,1.8,4,,Manual/Standard,4,United States (Usa),GENERAL MOTORS LLC
+JHMFB4F28CS002087,Asia,Honda,Civic,2012,Gasoline,Hybrid,,Sedan/Saloon,PASSENGER CAR,1.5,4,,Continuously Variable Transmission (CVT),4,Japan,"HONDA MOTOR CO., LTD."

@@ -1,0 +1,16 @@
+source_field,target_field,transform,required,why_it_matters_to_the_dealer
+Make,make,title,yes,Core identity of the vehicle on every listing and invoice
+Model,model,none,yes,Core identity; needed to price and advertise the vehicle
+ModelYear,model_year,int,yes,Drives pricing, warranty and tax treatment
+FuelTypePrimary,fuel_type,title,yes,Customers filter by fuel; affects tax and emissions
+Trim,trim,none,no,Distinguishes variants with different prices
+Series,series,none,no,Some manufacturers store the variant here instead of Trim
+BodyClass,body_type,none,no,Used in website search filters
+VehicleType,vehicle_type,none,no,Separates cars from vans and motorcycles
+DisplacementL,engine_litres,decimal_1dp,no,Shown on listings and used for insurance
+EngineCylinders,cylinders,int,no,Specification detail for listings
+DriveType,drive_type,none,no,Customers filter by two- or four-wheel drive
+TransmissionStyle,transmission,none,no,Customers filter by manual or automatic
+Doors,doors,int,no,Specification detail for listings
+PlantCountry,plant_country,title,no,Where the vehicle was built
+Manufacturer,manufacturer_name,none,no,Legal manufacturer name for documentation
