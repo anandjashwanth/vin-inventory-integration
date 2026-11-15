@@ -1,0 +1,39 @@
+name: CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+jobs:
+  test:
+    name: Lint and test
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - name: Install dependencies
+        run: pip install -r requirements.txt -r requirements-dev.txt
+      - name: Lint
+        run: ruff check src tests
+      - name: Run tests
+        run: pytest -q
+
+  docker:
+    name: Build and smoke-test container
+    needs: test
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Build image
+        run: docker build -t vin-api .
+      - name: Start container in offline mode
+        run: docker run -d -p 8000:8000 -e VIN_OFFLINE=true --name vin-api vin-api
+      - name: Smoke test
+        run: |
+          for i in $(seq 1 20); do curl -fs http://localhost:8000/health && break; sleep 1; done
+          curl -fs http://localhost:8000/vins/1HGCM82633A004352 | grep -q '"status":"clean"'
+          echo "Container is healthy and decodes a VIN"
