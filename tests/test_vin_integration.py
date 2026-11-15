@@ -31,8 +31,10 @@ def test_transform_rules():
 
 def test_validate_reads_error_code_not_http_status():
     mapping = v.load_mapping()
-    row = {"VIN": "WP0ZZZ99ZTS392124", "Make": "PORSCHE", "ErrorCode": "8", "ErrorText": "8 - No detailed data available currently"}
-    rec = v.map_record(row, mapping); rec["region"] = "Europe"
+    row = {"VIN": "WP0ZZZ99ZTS392124", "Make": "PORSCHE", "ErrorCode": "8",
+           "ErrorText": "8 - No detailed data available currently"}
+    rec = v.map_record(row, mapping)
+    rec["region"] = "Europe"
     issues = v.validate(rec, row, mapping)
     assert any("API error code 8" in i for i in issues)
     assert any("model_year" in i for i in issues)
@@ -43,5 +45,6 @@ def test_european_check_digit_code_is_ignored():
     row = {"VIN": "WP0ZZZ99ZTS392124", "Make": "PORSCHE", "Model": "911", "ModelYear": "1996",
            "FuelTypePrimary": "Gasoline", "ErrorCode": "1",
            "ErrorText": "1 - Check Digit (9th position) does not calculate properly"}
-    rec = v.map_record(row, mapping); rec["region"] = "Europe"
+    rec = v.map_record(row, mapping)
+    rec["region"] = "Europe"
     assert v.validate(rec, row, mapping) == []
